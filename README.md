@@ -3,4 +3,4 @@ These notebooks demonstrate an end to end machine learning lifecycle with SageMa
 
 (c) AWS
 
-Authors : Brent Rabowsky, Ali Arsanjani, Sean Wilkinson
+Authors : Brent Rabowsky, Ali Arsanjani, Sean Wilkinson, Bobby Lindsey
